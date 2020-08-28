@@ -23,4 +23,4 @@ init.py
 
 init.py
 
-O programa principal é contido no pacote/pasta MODULO: main.py
+O programa principal está contido no pacote/pasta MODULO: main.py
